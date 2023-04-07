@@ -1,0 +1,131 @@
+body {
+    background-image: url(/pexels-photo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(189, 174, 174);
+    border: 5px solid green;
+    width: 1000px;
+    height: 1500px;
+}
+
+.uppercontainer {
+    display: flex;
+}
+
+.box {
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 10px;
+    text-decoration-style: dashed;
+
+}
+
+.leftbox {
+    width: 300px;
+    height: 60px;
+    display: block;
+}
+
+.midlebox {
+    width: 350px;
+    height: 60px;
+    margin-left: -65px;
+    text-align: center;
+}
+
+.rightbox {
+    width: 400px;
+    height: 50px;
+    margin-left: 455px;
+
+
+}
+
+.midcontainer {
+    display: flex
+}
+
+.circle {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-left:50px;
+    margin-block-end: 10px;
+    background-color: rgb(6, 241, 65);
+    border: 15px solid grey
+}
+
+.circletext {
+    margin-top: 60px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.adg {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.formbox {
+    height: 450px;
+    width: 300px;
+    border: 10px dashed;
+    border-color: red;
+    margin-left:25px;
+    margin-bottom: 120px;
+    color: tomato;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.menu {
+    border: 2px solid red;
+    border-radius: 12px;
+    color: white;
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    margin-left: 400px;
+}
+
+.menubox {
+    border: 3px solid green;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    border-radius: 20px;
+    text-decoration: darkblue;
+    text-align: center;
+}
+
+.boxa {
+    margin-top: 10px;
+}
+
+.boxb {
+    margin-top: 10px;
+}
+
+.boxc {
+    margin-top: 10px;
+}
+
+.boxd {
+    margin-top: 10px;
+}
+
+.boxe {
+    margin-top: 10px;
+}
+
+.boxf {
+    margin-top: 10px;
+    height: 400px;
+}
