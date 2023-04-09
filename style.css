@@ -45,6 +45,7 @@ body {
 }
 
 .midcontainer {
+    margin-top: 12px;
     display: flex
 }
 
@@ -79,7 +80,7 @@ body {
     border-color: red;
     margin-left: 66px;
     margin-bottom: 39px;
-    margin-top: 112px;
+    margin-top: 75px;
     color: tomato;
     text-align: center;
     text-decoration: underline;
@@ -94,7 +95,7 @@ body {
     height: 50px;
     background-color: black;
     text-align: center;
-    margin-left: 400px;
+    margin-left: 481px;
 }
 
 .menubox {
